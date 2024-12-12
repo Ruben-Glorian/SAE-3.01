@@ -1,4 +1,4 @@
-n'hésiter pas à le modifier
+n'hésitez pas à le modifier
 
 @startuml
 title objectAid
